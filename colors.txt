@@ -2,5 +2,5 @@ Orange
 Purple
 Green
 Red
-Blue
+Blue-Orange
 Yellow
