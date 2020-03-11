@@ -1,5 +1,5 @@
 Giraffe
 Panda
-Goose
+Monkey
 Turkey
 Peacock
